@@ -26,3 +26,9 @@
 *.exe
 *.out
 *.app
+
+#Qt
+*.user
+
+#bin folder
+bin/*
